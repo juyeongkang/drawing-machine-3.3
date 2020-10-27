@@ -10,11 +10,7 @@ html, body {
     font-family: "courier", monospace;
   }
 canvas {
+  margin: 0 auto 0 auto;
   display: block;
   border: 5px solid black;
-  margin: auto;
-  top: 0;
-  left: 0;
-  position: absolute;
-  z-index: -1;
 }
